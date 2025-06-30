@@ -1,0 +1,62 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+
+h2{
+    text-align: left;
+    color: blue;
+    font-size: large;
+}
+
+
+
+p{
+    text-align: justify;
+    font-size: large;
+}
+
+
+button{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+li{
+    margin-bottom: 35px;
+}
+
+
+
+
+img{
+    border-radius: 100px;
+    width: 175px;
+}
+
+
+
+table{
+    border-style: groove;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+td{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+a:hover {
+  color: blue; 
+}
+
+
+

@@ -1,0 +1,61 @@
+  <title>Bem-Vindos</title>
+
+
+    <link rel="stylesheet" href="estilo.css">
+    
+
+
+
+
+</head>
+<body>
+    <h1>Eric Bittencourt</h1>
+    
+    <p>Oi, me chamo Eric, tenho 32 anos, moro na cidade de Gravataí-RS, atualmente não tenho muitos interesses <br>
+    além de aprender programação, pois é algo que eu sempre achei interessante, mas nunca tive oportunidade de aprender.<br>
+    Então agora é o momento. </p>
+
+    
+     
+       <ul>
+            <li>Jogar Videogame</li>
+            <li>Assistir filmes/Séries</li>
+            <li>Ir na academia</li>
+       </ul>
+
+       <img src="strong-man-training-gym.webp" width="250">
+
+
+       <h2>Lugares que gostaria de conhecer</h2>
+
+       <table> 
+            <tr>
+                <th>País</th>
+                <th>imagem</th>
+            </tr>
+            <tr>
+                <td>Noruega</td>
+                <td><img src="roteiro-noruega.jpg.webp" width="150"></td>
+            </tr>
+            <tr>
+                <td>EUA</td>
+                <td><img src="EUA.jpg" width="150"></td>
+            </tr>
+            <tr>
+                <td>Irlanda</td>
+                <td><img src="irlanda.webp" width="150"></td>
+            </tr>
+        </table>
+
+
+        <a href="http://www.youtube.com">youtube</a>
+
+        
+        
+        <script src="script.js"></script>
+        
+       
+
+
+
+</body>
